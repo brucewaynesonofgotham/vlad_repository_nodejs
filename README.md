@@ -133,3 +133,4 @@ node import.js users.json
 Все разрабатываемые файлы с "работами" для Agenda необходимо помещать в lib/jobs.
 
 Шаблоны почтовых сообщений в каталог lib/templates/папка_шаблона.
+"# NodejsProject" 
